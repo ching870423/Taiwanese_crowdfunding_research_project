@@ -31,7 +31,7 @@ In the file, [04_keyword_tfidf_year.ipynb](https://github.com/ching870423/Taiwan
 |2|玩家|充電|手機|
 |3|音樂|遊戲|收納|
 
-In the file, [05_topkeyword_price.ipynb](https://github.com/ching870423/Taiwanese_crowdfunding_research_project/blob/main/05_topkeyword_price.ipynb), I figured out the keywords that might bring more fundings. The method I implemented is to add up the funding price based on the top keyword I explored before and to sortthe terms according to the amount of fundings. Below is the keywords with the most fundings in traditional Chinese.
+In the file, [05_topkeyword_price.ipynb](https://github.com/ching870423/Taiwanese_crowdfunding_research_project/blob/main/05_topkeyword_price.ipynb), I figured out the keywords that might bring more fundings. The method I implemented is to add up the funding price based on the top keyword I explored before and to sortthe terms according to the amount of fundings. Below is the keywords with the most fundings in traditional Chinese. Most of them related to silicone, automatic, and patent.
 
 |year/ranking|2018|2019|2020|
 |---|---|---|---|
